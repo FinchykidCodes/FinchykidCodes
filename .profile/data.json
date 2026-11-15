@@ -1,17 +1,25 @@
 {
- "key": "5a0a339e",
+ "key": "f9986f89",
  "stars": 0,
- "contributions": 11,
- "repos": 3,
+ "contributions": 24,
+ "repos": 4,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   14092
+   22636
   ],
   [
    "C#",
    6896
+  ],
+  [
+   "CSS",
+   6459
+  ],
+  [
+   "JavaScript",
+   2317
   ]
  ],
  "days": [
@@ -91,7 +99,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 15,
     "day": 15,
     "today": true
    },
@@ -109,6 +117,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "Static-website",
+   "url": "https://github.com/FinchykidCodes/Static-website",
+   "text": "For my website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "FinchykidCodes",
    "url": "https://github.com/FinchykidCodes/FinchykidCodes",
