@@ -1,0 +1,140 @@
+{
+ "key": "d3cdfc7f",
+ "stars": 0,
+ "contributions": 10,
+ "repos": 3,
+ "followers": 0,
+ "languages": [
+  [
+   "HTML",
+   14092
+  ],
+  [
+   "C#",
+   6896
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "FinchykidCodes",
+   "url": "https://github.com/FinchykidCodes/FinchykidCodes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BedrockLauncher",
+   "url": "https://github.com/FinchykidCodes/BedrockLauncher",
+   "text": "My Vibe Coded Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FinchBot",
+   "url": "https://github.com/FinchykidCodes/FinchBot",
+   "text": "A powerful, all-in-one Discord assistant built for every server.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
