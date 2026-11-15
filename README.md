@@ -1,10 +1,21 @@
-# Hey there! 👋
+<div align="center">
 
-I'm Finchykid(https://finchykid.carrd.co/#), a youtuber based in The UK
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Finchykid"></picture>
 
-**Fun Facts:**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-- I have 2 cats 
-- I don't like Ai Slop Poster
-- Breaking Bad is my favorite Show
-- **Hobbies:** Professional hive player
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<a href="https://github.com/FinchykidCodes/FinchykidCodes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-finchykidcodes-dark.svg"><img src="assets/project-finchykidcodes-light.svg" width="49%" alt="FinchykidCodes"></picture></a>&nbsp;<a href="https://github.com/FinchykidCodes/BedrockLauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bedrocklauncher-dark.svg"><img src="assets/project-bedrocklauncher-light.svg" width="49%" alt="BedrockLauncher"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://finchykid.carrd.co/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=FinchykidCodes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
