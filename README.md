@@ -6,6 +6,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
+<a href="https://github.com/FinchykidCodes/wallpapers"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wallpapers-dark.svg"><img src="assets/project-wallpapers-light.svg" width="49%" alt="wallpapers"></picture></a>&nbsp;<a href="https://github.com/FinchykidCodes/BedrockLauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bedrocklauncher-dark.svg"><img src="assets/project-bedrocklauncher-light.svg" width="49%" alt="BedrockLauncher"></picture></a>
+
+<a href="https://github.com/FinchykidCodes/Static-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-static-website-dark.svg"><img src="assets/project-static-website-light.svg" width="49%" alt="Static-website"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

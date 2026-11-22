@@ -1,13 +1,13 @@
 {
- "key": "2e29a5cc",
+ "key": "34650256",
  "stars": 0,
- "contributions": 29,
- "repos": 5,
+ "contributions": 35,
+ "repos": 6,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   22636
+   23043
   ],
   [
    "C#",
@@ -19,7 +19,7 @@
   ],
   [
    "JavaScript",
-   2317
+   2318
   ]
  ],
  "days": [
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 6,
     "day": 22,
     "today": true
    },
@@ -112,11 +112,48 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "wallpapers",
+   "url": "https://github.com/FinchykidCodes/wallpapers",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BedrockLauncher",
+   "url": "https://github.com/FinchykidCodes/BedrockLauncher",
+   "text": "My Vibe Coded Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Static-website",
+   "url": "https://github.com/FinchykidCodes/Static-website",
+   "text": "For my website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
  "all": [
+  {
+   "name": "wallpapers",
+   "url": "https://github.com/FinchykidCodes/wallpapers",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "register",
    "url": "https://github.com/FinchykidCodes/register",
